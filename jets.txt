@@ -1,0 +1,5 @@
+Cargo,Boeing 737-400F,9000,9070,900000
+Fighter,Dassault Rafale,660,7070,500000
+Jet,Cessna Citation Longitude,960,6070,600000
+Fighter,Eurofighter Typhoon,760,10070,700000
+Cargo,Bombardier Dash,360,4039,800000
